@@ -1,0 +1,32 @@
+site_name: MySQL WIKI
+site_description: 'MySQL WIKI'
+site_author: 'fengzhao'
+site_url: 'https://mysql.fengzhao.ml'
+
+# Repository
+repo_name: 'fengzhao/ansible-wiki'
+repo_url: 'https://github.com/fengzhao/ansible-wiki'
+
+# Copyright
+copyright: 'Copyright &copy; 2020 - 2021 fengzhao'
+
+theme:
+  name: material
+  language: 'zh'
+  features:
+    - navigation.tabs
+  palette:
+    scheme: default
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+    
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      type: iso_datetime
+
