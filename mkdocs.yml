@@ -98,7 +98,7 @@ nav:
       - 'Windows':
          - '1. 管理 Windows 主机': basic/Windows/manager-windows.md
   - 'MySQL 进阶': 
-     - '索引相关': advanced/index.md
+     - '索引相关': advanced/suoyin.md
      - 'Ansible 的常用设置': advanced/ansible-config.md
      - 'Ansible 最佳实践': advanced/best-practices.md
      - '使用 Ansible-lint': advanced/ansible-lint.md
