@@ -62,7 +62,7 @@ markdown_extensions:
 
 nav:
   - "Home": index.md
-  - "Ansible 资源": resources.md
+  - "MySQL相关资源": resources.md
   - "赞赏支持": appreciate.md
   - "MySQL 入门":
       - "1. MySQL 介绍": basic/1.introduce_mysql.md
