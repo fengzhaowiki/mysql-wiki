@@ -256,3 +256,6 @@ nav:
           - supervisor: roles/other/supervisor.md
           - vault: roles/other/vault.md
           - cfssl: roles/other/cfssl.md
+
+extra_css:
+  - stylesheets/extra.css
