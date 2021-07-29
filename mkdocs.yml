@@ -63,7 +63,7 @@ markdown_extensions:
 nav:
   - "Home": index.md
   - "MySQL相关资源": resources.md
-  - "赞赏支持": appreciate.md
+  # - "赞赏支持": appreciate.md
   - "MySQL 入门":
       - "1. MySQL 介绍": basic/1.introduce_mysql.md
       - "2. 安装 MySQL": basic/2.install_mysql.md
