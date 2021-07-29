@@ -18,12 +18,10 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
-    - navigation.expand
-    - toc.integrate
 
   palette:
-    scheme: slate
-    primary: "purple"
+    scheme: default
+    primary: "indigo"
     accent: "indigo"
   font:
     text: "Roboto"
