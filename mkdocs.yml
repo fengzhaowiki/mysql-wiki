@@ -20,9 +20,17 @@ theme:
     - navigation.top
 
   palette:
-    scheme: default
-    primary: "indigo"
-    accent: "indigo"
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: "indigo"
+      accent: "indigo"
+
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
   font:
     text: "Roboto"
     code: "Roboto Mono"
