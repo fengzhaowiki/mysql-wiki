@@ -76,8 +76,8 @@ nav:
       - "1. 数据库概述": basic/1.introduce_database.md
       - "2. 安装 MySQL": basic/2.install_mysql.md
       - "3. MySQL可执行程序": basic/3.mysql_execute_command.md
-      - "4. 认识主机清单": basic/Inventory.md
-      - "5. Patterns 匹配": basic/Patterns.md
+      - "4. SQL语句和语法": basic/4.sql.md
+      - "5. 关系模型和关系代数": basic/5.relation.md
       - "6. 使用 ad-hoc 命令": basic/Ad-hoc.md
       - "7. 熟悉 ansible 命令": basic/Ansible-command.md
       - "8. 使用 Playbook": basic/Playbook.md
