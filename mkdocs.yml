@@ -73,6 +73,7 @@ nav:
   - "MySQL相关资源": resources.md
   # - "赞赏支持": appreciate.md
   - "MySQL 入门":
+      - "0. MySQL的起源和分支": basic/0.mysql_source.md
       - "1. 数据库概述": basic/1.introduce_database.md
       - "2. 安装 MySQL": basic/2.install_mysql.md
       - "3. MySQL可执行程序": basic/3.mysql_execute_command.md
