@@ -82,7 +82,7 @@ nav:
       - "6. SQL题目练习": basic/6.sql_practice.md
       - "7. 熟悉 ansible 命令": basic/Ansible-command.md
       - "8. 使用 Playbook": basic/Playbook.md
-      - "9. 包含和角色": basic/Include-roles.md
+      - "9. MySQL逻辑架构和性能优化概述": basic/9.mysql_architecture.md
       - "10. 使用变量": basic/Variables.md
       - "11. Facts 数据": basic/Facts.md
       - "12. Jinja2 模板语法": basic/Jinja2.md
