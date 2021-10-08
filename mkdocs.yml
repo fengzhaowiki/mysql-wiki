@@ -79,7 +79,7 @@ nav:
       - "3. MySQL可执行程序": basic/3.mysql_execute_command.md
       - "4. SQL语句和语法": basic/4.sql.md
       - "5. 关系模型和关系代数": basic/5.relation.md
-      - "6. 使用 ad-hoc 命令": basic/Ad-hoc.md
+      - "6. SQL题目练习": basic/6.sql_practice.md
       - "7. 熟悉 ansible 命令": basic/Ansible-command.md
       - "8. 使用 Playbook": basic/Playbook.md
       - "9. 包含和角色": basic/Include-roles.md
