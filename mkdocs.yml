@@ -97,8 +97,8 @@ nav:
           - "5. Ansible 配置": basic/Reference/Config.md
       - "Windows":
           - "1. 管理 Windows 主机": basic/Windows/manager-windows.md
-  - "MySQL 进阶":
-      - "索引相关": advanced/suoyin.md
+  - "MySQL 基础":
+      - "索引相关": foundmental/suoyin.md
       - "Ansible 的常用设置": advanced/ansible-config.md
       - "Ansible 最佳实践": advanced/best-practices.md
       - "使用 Ansible-lint": advanced/ansible-lint.md
@@ -116,8 +116,9 @@ nav:
           - "在 Jenkins 中使用 Ansible": advanced/practice/jenkins-and-ansible.md
       - "使用 ARA 记录 Ansible 执行结果": advanced/ara.md
       - "使用 Ansible-cmdb": advanced/ansible-cmdb.md
-  - "Ansible 开发":
-      - "Ansible 开发说明": dev/index.md
+  - "MySQL 高级":
+      - "深入理解innoDB存储引擎":
+          - "1.0.MySQL架构到innoDB架构": advanced/1.0.MySQL架构到innoDB架构.md
       - "Ansible 架构": dev/ansible-architecture.md
       - "使用 PyCharm 远程开发": dev/pycharm-remote-development.md
       - "Ansible 调试":
