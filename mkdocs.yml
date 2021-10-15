@@ -121,6 +121,7 @@ nav:
           - "1.0.MySQL架构到innoDB架构": advanced/1.0.MySQL架构到innoDB架构.md
           - "1.1.0.InnoDB——简介": advanced/1.1.0.InnoDB——简介.md
           - "1.1.1.InnoDB——关键特性": advanced/1.1.1.InnoDB——关键特性.md
+          - "1.2.0.InnoDB内存结构——缓冲池": advanced/1.2.0.InnoDB内存结构——缓冲池.md
       - "Ansible 架构": dev/ansible-architecture.md
       - "使用 PyCharm 远程开发": dev/pycharm-remote-development.md
       - "Ansible 调试":
